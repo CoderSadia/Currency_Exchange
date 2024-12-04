@@ -17,6 +17,7 @@ Toast Notifications: Alerts users for invalid input.
 Screenshots
 
 ![Capture 2](https://github.com/user-attachments/assets/de80161d-ca45-49fa-ac2d-0372d1b51116)
+
 ![Capture](https://github.com/user-attachments/assets/c386cf1e-3506-4be2-853e-3dcb0b203fa4)
 
 How It Works

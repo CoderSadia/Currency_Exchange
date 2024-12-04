@@ -12,9 +12,9 @@ Toast Notifications: Alerts users for invalid input.
 
 Screenshots
 
-[currency_exchange/Capture.PNG](https://github.com/CoderSadia/Currency_Exchange/blob/main/currency_exchange/Capture.PNG)
+(https://github.com/CoderSadia/Currency_Exchange/blob/main/currency_exchange/Capture.PNG)
 
-[currency_exchange/Capture 2.PNG](https://github.com/CoderSadia/Currency_Exchange/blob/main/currency_exchange/Capture%202.PNG)
+(https://github.com/CoderSadia/Currency_Exchange/blob/main/currency_exchange/Capture%202.PNG)
 
 How It Works
 
